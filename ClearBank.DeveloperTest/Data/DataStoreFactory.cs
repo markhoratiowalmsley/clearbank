@@ -8,7 +8,7 @@ namespace ClearBank.DeveloperTest.Data
     /// This should really be done in Dependency injection and the correct store would be injected
     /// at service composition, but we don't have DI so this will do. That would keep the code cleaner.
     /// </summary>
-    public class DataStoreFactory
+    public class DataStoreFactory : IDataStoreFactory
     {
         private readonly DataOptions _options;
 

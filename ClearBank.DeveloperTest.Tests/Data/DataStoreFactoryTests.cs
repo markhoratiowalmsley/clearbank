@@ -1,7 +1,7 @@
 ﻿using ClearBank.DeveloperTest.Data;
 using Microsoft.Extensions.Options;
 
-namespace ClearBank.DeveloperTest.Tests;
+namespace ClearBank.DeveloperTest.Tests.Data;
 
 public class DataStoreFactoryTests
 {

@@ -19,3 +19,8 @@ We’d also like you to add some unit tests to the ClearBank.DeveloperTest.Tests
 You are free to use any frameworks/NuGet packages that you see fit.  
  
 You should plan to spend around an hour completing the exercise. 
+
+
+### Candidate notes
+- Took just over one hour probably, dipped in and out in between different things.
+- Added comments to explain thinking.
